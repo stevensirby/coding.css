@@ -4,3 +4,12 @@
 .mat-step-header .mat-step-label {
     color: #ffffff;
 }
+.mat-step-label {
+    font-size: 1rem;
+    font-weight: 400;
+    padding: 1rem 0 0.0625rem!important;
+}
+.mat-step-label-selected {
+    font-size: 1rem;
+    font-weight: 500;
+}
