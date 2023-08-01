@@ -1,3 +1,6 @@
 .mat-step-header .mat-step-label.mat-step-label-active {
     color: hsla(0,0%,100%,1);
 }
+.mat-step-header .mat-step-label {
+    color: #ffffff;
+}
